@@ -1,0 +1,4 @@
+Place the pretty.php file in your helpers folder:
+/app/views/helper
+so you have this:
+/app/views/helper/pretty.php
